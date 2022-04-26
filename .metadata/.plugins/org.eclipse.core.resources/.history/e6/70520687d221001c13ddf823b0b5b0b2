@@ -1,0 +1,25 @@
+package Map;
+
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+
+public class ClassA {
+	void display() 
+	{
+		LinkedHashMap map = new LinkedHashMap();
+		// HashMap map = new HashMap();
+		map.put(101, "Java");
+		map.put("Kishan", "Java");
+		map.put(102, 1000);
+		map.put(null, "Python");
+		map.put(104, "CSS");
+		map.put("Shravil", "Developer");
+		
+		System.out.println(map);
+	}
+	public static void main(String[] args) {
+		
+		new ClassA().display();
+	}
+
+}

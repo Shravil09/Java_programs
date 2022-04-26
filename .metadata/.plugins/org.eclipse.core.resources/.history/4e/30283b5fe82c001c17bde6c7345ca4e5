@@ -1,0 +1,25 @@
+import org.graalvm.compiler.lir.LIRInstruction.Temp;
+
+public class primeNoSeries1 {
+
+	public static void main(String[] args) 
+	{
+		int temp=0;
+		
+		for(int i=1; i<=100; i++) 
+		{
+			for(int j=2; j<=i-1; j++) 
+			{
+				if(j%i==0) 
+				{
+					temp = temp+1;
+				}
+			}
+			if(temp==0) 
+			{
+				System.out.println(i);
+			}
+		}
+	}
+
+}

@@ -1,0 +1,38 @@
+
+Oct 09, 2021 14:23:51.664 NEW SESSION
+Oct 09, 2021 14:23:51.665 [5060:9188:1009/142351.655:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Oct 09, 2021 14:23:51.665 [5060:9188:1009/142351.656:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+Oct 09, 2021 14:23:51.665 [5060:9188:1009/142351.656:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Oct 09, 2021 14:23:51.665 [5060:9188:1009/142351.663:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+Oct 09, 2021 14:23:51.679 [5060:9388:1009/142351.679:ERROR:device_event_log_impl.cc(214)] [14:23:51.679] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 09, 2021 14:23:51.682 [5060:9388:1009/142351.681:ERROR:device_event_log_impl.cc(214)] [14:23:51.681] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 09, 2021 14:23:52.46 [5060:2120:1009/142352.045:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+
+Oct 12, 2021 12:18:46.576 NEW SESSION
+Oct 12, 2021 12:18:46.577 [11068:9024:1012/121846.569:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Oct 12, 2021 12:18:46.650 [11068:9024:1012/121846.569:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+Oct 12, 2021 12:18:46.651 [11068:9024:1012/121846.569:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Oct 12, 2021 12:18:46.651 [11068:9024:1012/121846.577:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+Oct 12, 2021 12:18:46.652 [11068:11096:1012/121846.599:ERROR:device_event_log_impl.cc(214)] [12:18:46.598] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 12, 2021 12:18:46.654 [11068:11096:1012/121846.601:ERROR:device_event_log_impl.cc(214)] [12:18:46.600] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 12, 2021 12:18:46.817 [11068:11232:1012/121846.816:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 12:19:09.688 [11068:11232:1012/121909.687:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 12:19:56.952 [11068:11232:1012/121956.951:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 13:04:02.722 [11068:11232:1012/130402.721:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 13:04:24.736 [11068:11232:1012/130424.734:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 13:05:16.936 [11068:11232:1012/130516.935:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 13:06:48.681 [11068:11232:1012/130648.680:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 13:10:46.458 [11068:11232:1012/131046.457:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 14:20:43.297 [11068:11232:1012/142043.296:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:23:43.913 [11068:11232:1012/172343.905:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:24:04.765 [11068:11232:1012/172404.764:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:24:28.948 [11068:11232:1012/172428.946:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:25:14.337 [11068:11232:1012/172514.337:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:26:57.430 [11068:11232:1012/172657.427:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:30:11.831 [11068:11232:1012/173011.828:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:35:36.323 [11068:11232:1012/173536.320:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:45:36.380 [11068:11232:1012/174536.332:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 17:55:36.338 [11068:11232:1012/175536.338:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 18:05:36.348 [11068:11232:1012/180536.345:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 18:15:38.602 [11068:11232:1012/181536.356:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+Oct 12, 2021 18:25:36.362 [11068:11232:1012/182536.361:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106

@@ -1,0 +1,14 @@
+package abstraction;
+
+public class C {
+
+		public static void main(String[] args) {
+			A a =new A(70,60,50);
+			a.getPercentage();
+			B b = new B(80,80,70,95);
+			b.getPercentage();
+			
+
+	}
+
+}

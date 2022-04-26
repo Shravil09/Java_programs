@@ -1,0 +1,18 @@
+
+public class FactorialByRecursion {
+	int fact=1;
+	public static void main(String[] args) {
+		int t=5;
+		FactorialByRecursion obj = new FactorialByRecursion();
+		obj.calFact(0);
+	}
+	void calFact(int t)
+	{
+		if(t>=1) {
+		fact=fact*t;
+		calFact(t-1);
+		
+	}
+
+}
+	}

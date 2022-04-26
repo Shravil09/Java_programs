@@ -1,0 +1,22 @@
+
+public class Check {
+	
+	public boolean CommonEnd(int []a, int[]b) {
+		int la = a.length;
+		int lb = b.length;
+		if(a[0]==b[0] || a[la-1] == b[lb-1] ) {
+			return true;
+			}
+			else
+			return false;
+		}
+	public static void main(String[] args) {
+		int input[] []= {{1,2,3}, {7,3}};
+		boolean result = new Check().CommonEnd(null, null);
+		System.out.println(result);
+		
+
+		
+	}
+	
+}

@@ -1,0 +1,20 @@
+package Map;
+
+import java.util.HashMap;
+
+public class ClassA {
+	void display() 
+	{
+		HashMap map = new HashMap();
+		map.put(101, "Java");
+		map.put("Kishan", "Java");
+		map.put(102, 1000);
+		map.put(null, "Python");
+		map.put(104, "CSS");
+		map.put("Shravil", "Developer");
+	}
+
+	public static void main(String[] args) {
+	}
+
+}

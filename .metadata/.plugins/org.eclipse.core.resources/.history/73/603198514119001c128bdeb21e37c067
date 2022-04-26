@@ -1,0 +1,18 @@
+package Practice;
+
+public class PrimeNo {
+
+	public static void main(String[] args) {
+		int t = 11, temp = 0;
+		for(int i = 1; i<=t-1; i++) {
+			if(t%i == 0) {
+			temp = temp+1;
+		}
+		if(temp == 0) {
+			System.out.println(t +" is Prime No");
+		}else {
+			System.out.println(t+ " is not a prime No");
+		}
+	}
+	}
+}

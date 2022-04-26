@@ -1,0 +1,13 @@
+package inheritence1;
+
+public class ClassB {
+	void meth2() 
+	{
+		System.out.println("ClassB method");
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+}

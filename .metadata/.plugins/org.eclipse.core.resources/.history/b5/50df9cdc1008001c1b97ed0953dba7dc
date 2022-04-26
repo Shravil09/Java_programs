@@ -1,0 +1,14 @@
+package string;
+
+public class ClassA {
+	public ClassA(String name){
+		String nameString = "Bob!";
+		System.out.println(nameString.concat("Hello")+nameString);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

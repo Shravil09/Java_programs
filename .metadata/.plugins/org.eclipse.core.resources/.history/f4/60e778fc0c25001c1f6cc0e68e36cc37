@@ -1,0 +1,33 @@
+package Simple;
+
+import java.util.Scanner;
+
+import jdk.nashorn.internal.ir.CaseNode;
+
+public class PrimeNoSeries {
+	public static void main(String[] args) 
+	{
+		int n1 = 20;
+		int n2 = 50;
+		int res;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("select Operation(+, -, *,/)");
+		String Oper = sc.next();
+		
+		switch(Oper)
+		{
+			case "+" : res = n1 + n2;
+			System.out.println("Addition is : + res");
+			
+			case "-" : res = n1 - n2;
+			System.out.println("Substraction is : + res");
+			
+			case "*" : res = n1 * n2;
+			System.out.println("Multiplication  is : + res");
+			
+			case "/" : res = n1 / n2;
+			System.out.println("Divison is : + res");
+		}
+		
+	}
+}

@@ -1,0 +1,27 @@
+package Simple;
+
+import java.util.Scanner;
+
+public class PrimeNoSeries {
+	
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the Number");
+		int n = sc.nextInt();
+		int j;
+		for(int i = 1; i<=n; i++) 
+		{
+			for( j = 2; j<=i-1; j++) 
+			{
+				if(i%j == 0) 
+					break;
+			}
+			if( j == i ) 
+			{
+				System.out.println(i+ " ");
+			}
+		}
+	}
+
+}

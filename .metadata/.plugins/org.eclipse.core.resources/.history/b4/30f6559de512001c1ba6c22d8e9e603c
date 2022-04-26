@@ -1,0 +1,17 @@
+package abstraction;
+
+public class C {
+	public float getPercentage(float total) {
+		return total;
+	}
+
+		public static void main(String[] args) {
+			A a =new A(70,60,50);
+			System.out.println(a.getPercentage());
+			B b = new B(80,80,70,95);
+			System.out.println(b.getPercentage());
+			
+
+	}
+
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:Serverlet-Serverlet1" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Calcu" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Servlet-Servlet2" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Calweb" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:FirstServerlet" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Serverlet-Serverlet" serverId="Tomcat v9.0 Server at localhost"/>
+</modules>

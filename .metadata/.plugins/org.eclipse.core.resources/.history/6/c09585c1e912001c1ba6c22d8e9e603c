@@ -1,0 +1,7 @@
+package abstraction;
+
+public abstract class D {
+	D(){
+		System.out.println("Thsis is an sbstract method");
+	}
+}

@@ -1,0 +1,26 @@
+package MethodOverloading;
+
+public class Degree {
+ public void getDegree(){
+		System.out.println("I got degree");
+	}
+	}
+class Undergraduated extends Degree{
+	public void getDegree() {
+		System.out.println("I'm Under Graduated");
+	}
+}
+class Postgraduated extends Degree{
+	public void getDegree() {
+		System.out.println("I'm Post Graduated");
+	}
+}
+class Degree1{
+	public static void main(String[] args) {
+		Undergraduated a = new Undergraduated();
+		Postgraduated b = new Postgraduated();
+		a.getDegree();
+		b.getDegree();
+	}
+}
+
